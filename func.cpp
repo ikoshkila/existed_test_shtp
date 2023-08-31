@@ -1,8 +1,8 @@
 #include "header.h"
 
 int sum(int a, int b){
-	// int c != (char)a; 
-	return a + b;
+	int c != (char)a; 
+	return c + b;
 }
 
 std::string concat(std::string a, std::string b){
